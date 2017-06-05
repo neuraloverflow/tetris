@@ -1,15 +1,15 @@
-# Platform game
+# Tetris game
 
 ## How it works
 
-Download this repo. Click on platform-game.html and play! use your arrow keys on your keyboard. That's it really.
+[Download](https://github.com/mottiden/tetris/archive/master.zip) this repo. Click on tetris.html and play! use your arrow keys on your keyboard to move the blocks and Q and W to rotate. That's it really.
 
 ## Demo
-Check out the demo project for a quick example of how it looks.
+Check out the [demo](https://jacopoparvizi.com/assets/apps/tetris/tetris.html) project for a quick example of how it looks.
 
-![weather-app](https://github.com/mottiden/platform-game/blob/master/platform-game.gif)
+![tetris](https://github.com/mottiden/tetris/blob/master/tetris.gif)
 
-Inspired from [DarkBlue](http://www.lessmilk.com/games/10) and [eloquentjs](http://eloquentjavascript.net/15_game.html). 
+Inspired from [methmethmethod](https://github.com/meth-meth-method/tetris)
 
 Pull requests are more than welcomed!
 
